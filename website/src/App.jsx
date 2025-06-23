@@ -23,7 +23,7 @@ function demo()
       <tbody>
         <tr>
             <td><img src="img/IG.jpg"/>
-            This place is located in Sudurpachim province Bajhang</td>
+            This place is located in Sudurpachim province Bungal Bajhang</td>
         </tr>
       </tbody>
     </table>
@@ -32,11 +32,11 @@ function demo()
   <div className='container2'>
     left side of container
     <table>
-
       <tbody>
       <tr>
           <td><img src="img/Nature.jpg"/>
-          This place is located in sudurpachim province Bajhang</td>
+          This place is located in sudurpachim province
+          Bungal Bajhang</td>
         </tr>
       </tbody>
     </table>
