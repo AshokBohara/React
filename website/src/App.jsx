@@ -30,7 +30,7 @@ function demo()
       <div>
         <tr>
           <td><img src="img/su.png"/>
-            This place is located in Sudurpachim province sungre Bajhang</td>
+            This place is located in Sudurpachim province  kedarsyun  Bajhang</td>
         </tr>
       </div>
     </table>
