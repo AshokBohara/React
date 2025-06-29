@@ -7,7 +7,7 @@ function App() {
 
 function demo()
 {
-  document.getElementById('demo').innerHTML = "Hello Bajhang";
+  document.getElementById('demo').innerHTML = " Bajhang photo collection";
 }
   return (
     <>
